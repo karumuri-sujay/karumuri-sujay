@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
  <h1 align="center">Hi 👋, I'm Karumuri Sujay</h1>
 <h3 align="center">A passionate and a learner of ReactJs</h3>
 
