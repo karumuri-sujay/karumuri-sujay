@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karumuri-sujay&label=Profile%20views&color=0e75b6&style=flat" alt="karumuri-sujay" /> </p>
 
-- 🌱 I’m a **ReactJs Developer**
+- 🌱 I’m a **Android Developer**
 
-- 💬 Ask me about **C, C++, Java, JavaScript, HTML, CSS**
+- 💬 Ask me about **C, C++, Java, Kotlin, Android Fundamentals, JavaScript, HTML, CSS, ReactJS, Docker, Kubernetes, AWS, Enterprise Applications, MDM and MTD for iOS and Android**
 
 - 📫 How to reach me **sujaykarumuri@gmail.com**
 
